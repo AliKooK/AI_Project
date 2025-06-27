@@ -1,5 +1,4 @@
 """
-Terminal Image Gallery - Browse all your images from command line
 Navigate through your images using simple text commands
 """
 import os
