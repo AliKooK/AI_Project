@@ -1,6 +1,5 @@
 """
 Extract Sample Images for LaTeX Report
-This script copies sample images from each class to use in the LaTeX document
 """
 import os
 import shutil
