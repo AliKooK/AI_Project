@@ -5,10 +5,6 @@ This project implements and compares three machine learning models for image cla
 1. Naive Bayes Classifier
 2. Decision Tree Classifier  
 3. Feedforward Neural Network (MLPClassifier)
-
-Author: [Your Name]
-Date: [Current Date]
-Course: [Course Name]
 """
 
 import os
