@@ -1,11 +1,6 @@
 """
 Data Collection Helper for Image Classification Project
 
-This script provides utilities to help collect and organize image data for the project.
-It includes functions to download sample datasets and organize existing images.
-
-Usage:
-    python data_collection_helper.py
 """
 
 import os
