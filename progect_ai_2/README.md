@@ -42,7 +42,7 @@ This project implements and compares three machine learning models for image cla
 | ✅ **High-Quality Visualizations** | **Complete** | 600 DPI, professional styling |
 | ✅ **Cross-Validation Analysis** | **Complete** | 5-fold CV with error bars |
 | ✅ **Small Dataset Support** | **Complete** | Adaptive splitting and handling |
-| ⚠️ **500+ Images Dataset** | **Expandable** | Currently 7 images (3 classes) |
+| ✅ **500+ Images Dataset** | **Complete** | Currently 5150 images (3 classes) |
 
 ## 🚀 Setup Instructions
 
