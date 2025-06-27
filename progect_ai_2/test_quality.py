@@ -1,5 +1,4 @@
 """
-Interactive Image Gallery - Navigate through all your images
 Use Arrow Keys: Left/Right to navigate, Up/Down to switch classes, 'q' to quit
 """
 import os
